@@ -1,0 +1,6 @@
+image:
+  repository: nginx
+
+name: my-nginx
+
+replicas: 1
